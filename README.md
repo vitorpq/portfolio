@@ -101,3 +101,5 @@ Para usar um domínio como `vitorem.dev`:
 1. Crie um arquivo `public/CNAME` com o conteúdo: `vitorem.dev`
 2. Mude `base: '/'` em `vite.config.js`
 3. Configure o DNS do seu domínio apontando para o GitHub Pages
+---
+*Este README foi atualizado automaticamente em 2026-06-23 09:23:59.*
